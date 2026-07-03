@@ -8,7 +8,7 @@ const works = [
   { src: "/images/tattoo2.jpg", title: "Realism" },
   { src: "/images/tattoo3.jpg", title: "Fine Line" },
   { src: "/images/tattoo4.jpg", title: "Floral" },
-  { src: "/images/tattoo6.jpg", title: "Graphic" },
+  { src: "/images/tattoo5.jpg", title: "Graphic" },
 ];
 
 export default function Gallery() {
